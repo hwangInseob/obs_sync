@@ -13,15 +13,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "분석단계.md",
+                "file": "일일기록.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "분석단계"
+              "title": "일일기록"
+            }
+          },
+          {
+            "id": "9a84e6f8ca1a7cea",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "그래프 뷰"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -194,13 +205,16 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "eae3fd1343905025",
+  "active": "9a84e6f8ca1a7cea",
   "lastOpenFiles": [
+    "일일기록.md",
+    "무제.base",
+    "2026-03-13.md",
+    "Pasted image 20260313174744.png",
+    "Pasted image 20260313174739.png",
     "STH_module_analysis.md",
     "분석단계.md",
-    "일일기록.md",
     "2026-03-12.md",
-    "무제.base",
     "Pasted image 20260312160824.png",
     "NVM & Nodejs 설치.md",
     "환영합니다!.md"
