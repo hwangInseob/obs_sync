@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "zencommerce_design.md",
+                "file": "HomeIOT/가상 세대.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "zencommerce_design"
+              "title": "가상 세대"
             }
           }
         ]
@@ -156,13 +156,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "zencommerce_design.md",
+                "file": "HomeIOT/가상 세대.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "zencommerce_design 의 개요"
+              "title": "가상 세대 의 개요"
             }
           },
           {
@@ -176,7 +176,7 @@
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 5
       }
     ],
     "direction": "horizontal",
@@ -196,14 +196,16 @@
   },
   "active": "ad6e88524a4c7f17",
   "lastOpenFiles": [
-    "BP_MR/5.분류.md",
-    "zencommerce_design.md",
-    "BP_MR/4. 리스트업.md",
+    "HomeIOT/링크 모음.md",
+    "HomeIOT/무제.md",
     "BP_MR/3.초기 리뷰.md",
-    "무제.md",
-    "Pasted image 20260323202444.png",
+    "BP_MR/4. 리스트업.md",
+    "BP_MR/5.분류.md",
     "BP_MR/2.초기 내용.md",
     "BP_MR/1.관계자.md",
+    "zencommerce_design.md",
+    "무제.md",
+    "Pasted image 20260323202444.png",
     "HomeIOT/인원.md",
     "분석.md",
     "일일기록/일일기록.md",
@@ -218,7 +220,6 @@
     "무제 2.canvas",
     "무제 3.canvas",
     "BP_MR",
-    "HomeIOT/링크 모음.md",
     "HomeIOT/분석단계.md",
     "일일기록/2026-03-20.md",
     "HomeIOT/가상 세대.md",
@@ -234,7 +235,6 @@
     "HomeIOT/양식 모음.md",
     "무제.base",
     "HomeIOT",
-    "일일기록/2026-03-13.md",
     "이미지/Pasted image 20260313174744.png",
     "이미지/Pasted image 20260312160824.png",
     "이미지/Pasted image 20260315193356.png",
