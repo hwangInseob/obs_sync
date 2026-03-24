@@ -4,151 +4,24 @@
     "type": "split",
     "children": [
       {
-        "id": "6b2f2b32e0afa822",
+        "id": "53915fbf172823a0",
         "type": "tabs",
         "children": [
           {
-            "id": "eae3fd1343905025",
+            "id": "ad6e88524a4c7f17",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "일일기록/일일기록.md",
+                "file": "zencommerce_design.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "일일기록"
-            }
-          },
-          {
-            "id": "9a84e6f8ca1a7cea",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "일일기록/2026-03-14.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "2026-03-14"
-            }
-          },
-          {
-            "id": "b103a6db293154d0",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "일일기록/2026-03-14.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "2026-03-14"
-            }
-          },
-          {
-            "id": "d81fed9403561c7c",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "일일기록/일일기록.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "일일기록"
-            }
-          },
-          {
-            "id": "551653896cef0751",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "일일기록/2026-03-17.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "2026-03-17"
-            }
-          },
-          {
-            "id": "02aa2cf6aaa210b7",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "일일기록/2026-03-17.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "2026-03-17"
-            }
-          },
-          {
-            "id": "5304064db35aff06",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "HomeIOT/1. 메인노트.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "1. 메인노트"
-            }
-          },
-          {
-            "id": "179e015efbf2998e",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "HomeIOT/sth_module_analysis_2.md",
-                "mode": "preview",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "sth_module_analysis_2"
-            }
-          },
-          {
-            "id": "6b8d0c50eefd2c6d",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "일일기록/일일기록.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "일일기록"
-            }
-          },
-          {
-            "id": "66ead981d77ed230",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "HomeIOT/링크 모음.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "링크 모음"
+              "title": "zencommerce_design"
             }
           }
-        ],
-        "currentTab": 9
+        ]
       }
     ],
     "direction": "vertical"
@@ -283,13 +156,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "무제.base",
+                "file": "zencommerce_design.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "무제 의 개요"
+              "title": "zencommerce_design 의 개요"
             }
           },
           {
@@ -303,7 +176,7 @@
             }
           }
         ],
-        "currentTab": 5
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
@@ -321,22 +194,39 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "66ead981d77ed230",
+  "active": "ad6e88524a4c7f17",
   "lastOpenFiles": [
+    "BP_MR/5.분류.md",
+    "zencommerce_design.md",
+    "BP_MR/4. 리스트업.md",
+    "BP_MR/3.초기 리뷰.md",
+    "무제.md",
+    "Pasted image 20260323202444.png",
+    "BP_MR/2.초기 내용.md",
+    "BP_MR/1.관계자.md",
+    "HomeIOT/인원.md",
+    "분석.md",
+    "일일기록/일일기록.md",
+    "계정 정보.md",
+    "Wifi 설정.md",
+    "살거.md",
+    "HomeIOT/현장검증 과정.md",
+    "무제 5.canvas",
+    "무제.canvas",
+    "무제 1.canvas",
+    "무제 4.canvas",
+    "무제 2.canvas",
+    "무제 3.canvas",
+    "BP_MR",
+    "HomeIOT/링크 모음.md",
     "HomeIOT/분석단계.md",
     "일일기록/2026-03-20.md",
     "HomeIOT/가상 세대.md",
     "HomeIOT/1. 메인노트.md",
-    "HomeIOT/링크 모음.md",
-    "HomeIOT/인원.md",
-    "일일기록/일일기록.md",
     "HomeIOT/sth_module_analysis_2.md",
     "HomeIOT/오큐브 미팅.md",
     "HomeIOT/STH_module_analysis.md",
-    "HomeIOT/현장검증 과정.md",
-    "살거.md",
     "HomeIOT/sth_module_analysis_2",
-    "계정 정보.md",
     "일일기록/2026-03-19.md",
     "일일기록/2026-03-17.md",
     "4월신규Prj",
@@ -345,19 +235,14 @@
     "무제.base",
     "HomeIOT",
     "일일기록/2026-03-13.md",
-    "구매목록.md",
     "이미지/Pasted image 20260313174744.png",
-    "일일기록/2026-03-12.md",
     "이미지/Pasted image 20260312160824.png",
     "이미지/Pasted image 20260315193356.png",
     "이미지",
     "일일기록",
-    "일일기록/2026-03-14.md",
     "이미지/Pasted image 20260315192904.png",
     "이미지/Pasted image 20260315192657.png",
     "이미지/Pasted image 20260315192633.png",
-    "이미지/Pasted image 20260313174739.png",
-    "NVM & Nodejs 설치.md",
-    "환영합니다!.md"
+    "이미지/Pasted image 20260313174739.png"
   ]
 }
